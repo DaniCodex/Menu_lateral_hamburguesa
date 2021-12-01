@@ -1,7 +1,5 @@
-# Como realizar menú acordeón con diseño de Google con HTML CSS  y JS
-### Video del tutorial: [https://youtu.be/ANvBpUTNtpY](https://youtu.be/ANvBpUTNtpY)
+# Menú lateral hamburguesa con diseño de YouTube | HTML, CSS, JS
+### Video del tutorial: [https://youtu.be/W72XJJUlMmE](https://youtu.be/W72XJJUlMmE)
 
 
-
-![acordeon-blac2](https://user-images.githubusercontent.com/85034795/144155620-4ef62ab5-f33b-47e1-a1ed-2962ea153e93.png)
-
+![YT-FONDO](https://user-images.githubusercontent.com/85034795/144156156-86aee524-f87b-4b64-b04c-915854dcf2a7.png)
