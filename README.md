@@ -1,5 +1,4 @@
-# Menú lateral hamburguesa con diseño de YouTube | HTML, CSS, JS
-### Video del tutorial: [https://youtu.be/W72XJJUlMmE](https://youtu.be/W72XJJUlMmE)
+# Formulario de registro y de login con HTML y CSS | Parte 1
+### Video del tutorial: [[https://youtu.be/W72XJJUlMmE](https://youtu.be/FGAG1CIaQvI)]([https://youtu.be/W72XJJUlMmE](https://youtu.be/FGAG1CIaQvI))
 
-
-![YT-FONDO](https://user-images.githubusercontent.com/85034795/144156156-86aee524-f87b-4b64-b04c-915854dcf2a7.png)
+![formulario-login](https://user-images.githubusercontent.com/85034795/181589988-03e44dcf-193d-4860-ba1e-3fd83626fdf2.png)
